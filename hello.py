@@ -3,7 +3,8 @@ import os
 import sys
 
 '''最简单的django 工程: 
-运行方式：python hello.py runserver
+运行方式
+python hello.py runserver
 '''
 
 from django.conf import settings
