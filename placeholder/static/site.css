@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-size: smaller;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+}
